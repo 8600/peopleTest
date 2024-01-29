@@ -1,7 +1,8 @@
 {
+  "name": "sgy",
   "dependencies": {
-    "amqplib": "^0.10.2",
-    "node-fetch": "^3.2.10"
+    "node-fetch": "2",
+    "ws": "^8.8.1"
   },
-  "type": "module"
+  "bin": "index.js"
 }
